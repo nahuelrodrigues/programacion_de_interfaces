@@ -1,0 +1,3 @@
+https://www.pjrc.com/teensy/td_libs_MIDI.html
+
+http://www.instructables.com/id/Send-and-Receive-MIDI-with-Arduino/?ALLSTEPS
